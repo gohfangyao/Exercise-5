@@ -19,7 +19,7 @@ b) user-defined methods with return value
 
 c) user-defined methods with passing-parameters 
 
-  Answer: setHeight(double len), setBase(double b), set(double len, double b)
+  Answer: setHeight(double lgt), setBase(double bs), set(double lgt, double bs)
 
 d) accessor (getter) methods
 
