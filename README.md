@@ -15,16 +15,16 @@ a) object
 
 b) user-defined methods with return value
 
-getHeight(), getBase(), getArea()
+  Answer: getHeight(), getBase(), getArea()
 
 c) user-defined methods with passing-parameters 
 
-setHeight(double len), setBase(double b), set(double len, double b)
+  Answer: setHeight(double len), setBase(double b), set(double len, double b)
 
 d) accessor (getter) methods
 
-getHeight(), getBase(), getArea()
+  Answer: getHeight(), getBase(), getArea()
 
 e) mutator (setter) methods
 
-setHeight(double len), setBase(double b), set(double len, double b)
+  Answer: setHeight(double len), setBase(double b), set(double len, double b)
