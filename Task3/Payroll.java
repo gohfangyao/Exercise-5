@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Triangle{
+public class Payroll{
     public static void main(String[] args){
         Employee sc = new Employee();
         sc.input();
